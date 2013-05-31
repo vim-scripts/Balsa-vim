@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4604
+
+This plugin contains indent and syntax plugins for Balsa.
+Balsa is an asynchronous circuit synthesis system and hardware description language.
+To get more information, visit http://apt.cs.manchester.ac.uk/projects/tools/balsa/
+
+For more detail see also project page https://github.com/qeexee/balsa-vim
